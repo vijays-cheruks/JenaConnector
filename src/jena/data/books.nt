@@ -1,0 +1,17 @@
+﻿_:Bd78830296435d2aac98979f87ed94959 <http://www.w3.org/2001/vcard-rdf/3.0#N> _:B8d5b650eab9f21995d9130acda38598e .
+_:Bd78830296435d2aac98979f87ed94959 <http://www.w3.org/2001/vcard-rdf/3.0#FN> "J.K. Rowling" .
+<http://example.org/book/book5> <http://purl.org/dc/elements/1.1/creator> "J.K. Rowling" .
+<http://example.org/book/book5> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Order of the Phoenix" .
+<http://example.org/book/book3> <http://purl.org/dc/elements/1.1/creator> _:Bd78830296435d2aac98979f87ed94959 .
+<http://example.org/book/book3> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Prisoner Of Azkaban" .
+<http://example.org/book/book1> <http://purl.org/dc/elements/1.1/creator> "J.K. Rowling" .
+<http://example.org/book/book1> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Philosopher's Stone" .
+<http://example.org/book/book6> <http://purl.org/dc/elements/1.1/creator> "J.K. Rowling" .
+<http://example.org/book/book6> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Half-Blood Prince" .
+<http://example.org/book/book4> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Goblet of Fire" .
+_:B8d5b650eab9f21995d9130acda38598e <http://www.w3.org/2001/vcard-rdf/3.0#Given> "Joanna" .
+_:B8d5b650eab9f21995d9130acda38598e <http://www.w3.org/2001/vcard-rdf/3.0#Family> "Rowling" .
+<http://example.org/book/book2> <http://purl.org/dc/elements/1.1/creator> _:Bd78830296435d2aac98979f87ed94959 .
+<http://example.org/book/book2> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Chamber of Secrets" .
+<http://example.org/book/book7> <http://purl.org/dc/elements/1.1/creator> "J.K. Rowling" .
+<http://example.org/book/book7> <http://purl.org/dc/elements/1.1/title> "Harry Potter and the Deathly Hallows" .
